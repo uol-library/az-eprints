@@ -10,14 +10,15 @@ Container registry
 
 MariaDB (Azure SAAS)
 * **NOT** containerised database as part of Pod
-* Access tables -> flat file
+* **Requires** Access tables -> flat file
 
 AZ Storage
-* EPrints Storage Plugin to use blobs (like [amazon_s3](http://bazaar.eprints.org/115/))
+* EPrints Storage Plugin to use blobs (like [amazon_s3](http://bazaar.eprints.org/115/) plugin)
 * [BagIt](https://en.wikipedia.org/wiki/BagIt)
 * [OCFL](https://ocfl.io/)
 * volatile data
 * usage metrics
+* access tables
 
 AZ Functions
 
@@ -42,7 +43,7 @@ Containers to run:
 
 + DEV instances of above
 + QA instances of above (where needed)
-+ Digital preservation strategy - Wellcome [Storage Service](https://github.com/wellcomecollection/storage-service)
++ Digital preservation strategy - Wellcome [Storage Service](https://github.com/wellcomecollection/storage-service)?
 
 Web front-ends
 
