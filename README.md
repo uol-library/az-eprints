@@ -13,7 +13,7 @@ MariaDB (Azure SAAS)
 * **Requires** Access tables -> flat file
 
 AZ Storage
-* EPrints Storage Plugin to use blobs (like [amazon_s3](http://bazaar.eprints.org/115/) plugin)
+* **Requires** EPrints Storage Plugin to use blobs (like [amazon_s3](http://bazaar.eprints.org/115/) plugin)
 * [BagIt](https://en.wikipedia.org/wiki/BagIt)
 * [OCFL](https://ocfl.io/)
 * volatile data
