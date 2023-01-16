@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-01-16T10:46:19.523Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SlQeBXd1JW5-cxhGg7eB" version="20.8.5" type="github">
+  <diagram id="wdW4w8v94I9BhqAltpgO" name="Page-1">
+    <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="woiQSh3FvUXSauaji83U-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="710" width="180" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="woiQSh3FvUXSauaji83U-1" value="Base image&lt;br&gt;ubi8/9 perl apache" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-6">
+          <mxGeometry y="185" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="woiQSh3FvUXSauaji83U-2" value="EPrints" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-6">
+          <mxGeometry y="120" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="woiQSh3FvUXSauaji83U-4" value="Ingrediernts" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-6">
+          <mxGeometry width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="woiQSh3FvUXSauaji83U-5" value="Flavours" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-6">
+          <mxGeometry y="60" width="180" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
