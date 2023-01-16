@@ -41,9 +41,11 @@ Containers to run:
 * WRRO
 * WREO
 
-+ DEV instances of above
-+ QA instances of above (where needed)
-+ Digital preservation strategy - Wellcome [Storage Service](https://github.com/wellcomecollection/storage-service)?
+**PLUS**
+
+* DEV instances of above
+* QA instances of above (where needed)
+* Digital preservation strategy - Wellcome [Storage Service](https://github.com/wellcomecollection/storage-service)?
 
 Web front-ends
 
