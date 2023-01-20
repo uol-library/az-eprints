@@ -1,29 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T13:48:05.738Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RncU4PNkcaWvUnSoLEol" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T17:36:11.399Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SR9qMFm-scCQRIgq2W2a" version="20.8.8" type="github">
   <diagram id="wdW4w8v94I9BhqAltpgO" name="Page-1">
     <mxGraphModel dx="1434" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="woiQSh3FvUXSauaji83U-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="180" y="585" width="180" height="390" as="geometry" />
+        <mxCell id="woiQSh3FvUXSauaji83U-9" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="100" y="585" width="180" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="woiQSh3FvUXSauaji83U-1" value="Base image&lt;br&gt;ubi8/9 perl apache" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-9">
+        <mxCell id="woiQSh3FvUXSauaji83U-1" value="Base image&lt;br&gt;ubi8/9 perl apache" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="woiQSh3FvUXSauaji83U-9" vertex="1">
           <mxGeometry y="310" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="woiQSh3FvUXSauaji83U-2" value="EPrints" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-9">
+        <mxCell id="woiQSh3FvUXSauaji83U-2" value="EPrints" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="woiQSh3FvUXSauaji83U-9" vertex="1">
           <mxGeometry y="245" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="woiQSh3FvUXSauaji83U-4" value="Ingrediernts" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-9">
+        <mxCell id="woiQSh3FvUXSauaji83U-4" value="Ingrediernts" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="woiQSh3FvUXSauaji83U-9" vertex="1">
           <mxGeometry y="125" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="woiQSh3FvUXSauaji83U-5" value="Flavours" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-9">
+        <mxCell id="woiQSh3FvUXSauaji83U-5" value="Flavours" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="woiQSh3FvUXSauaji83U-9" vertex="1">
           <mxGeometry y="185" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="woiQSh3FvUXSauaji83U-7" value="Theme" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-9">
+        <mxCell id="woiQSh3FvUXSauaji83U-7" value="Theme" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="woiQSh3FvUXSauaji83U-9" vertex="1">
           <mxGeometry y="65" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="woiQSh3FvUXSauaji83U-8" value="Repo config" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="woiQSh3FvUXSauaji83U-9">
+        <mxCell id="woiQSh3FvUXSauaji83U-8" value="Repo config" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="woiQSh3FvUXSauaji83U-9" vertex="1">
           <mxGeometry width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PXUQ8OGrvhxgz1FBDA1T-2" value="Repository" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="180" height="190" as="geometry">
+            <mxRectangle x="510" y="675" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PXUQ8OGrvhxgz1FBDA1T-3" value="Dockerfile&lt;br&gt;README&lt;br&gt;.dockerignore" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PXUQ8OGrvhxgz1FBDA1T-2">
+          <mxGeometry y="30" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PXUQ8OGrvhxgz1FBDA1T-4" value="&lt;b&gt;Submodules:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;EPrints&lt;/li&gt;&lt;li&gt;Flavour&lt;/li&gt;&lt;li&gt;Ingredients&lt;/li&gt;&lt;li&gt;Theme&lt;/li&gt;&lt;li&gt;Repo config&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PXUQ8OGrvhxgz1FBDA1T-2">
+          <mxGeometry y="80" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PXUQ8OGrvhxgz1FBDA1T-8" value="&lt;h1 style=&quot;font-size: 19px;&quot;&gt;Tags&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tags shared across repository and image in container registry. Document all tags in changelog section of README.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tag whenever there are:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;changes to any submodules&lt;/li&gt;&lt;li&gt;changes to dockerfile&lt;/li&gt;&lt;li&gt;changes to base image&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=#E6E6E6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;shadow=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="540" y="890" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PXUQ8OGrvhxgz1FBDA1T-9" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=19;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="290" y="580" width="250" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="PXUQ8OGrvhxgz1FBDA1T-11" value="&lt;h1 style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;use &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;COPY&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt; to copy files from submodules to the image, and &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;.dockerignor&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt; to exclude anything which should not be in the resulting image&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=#E6E6E6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;shadow=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="350" y="650" width="130" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
