@@ -6,6 +6,7 @@ WHAT WE NEED
 
 CI/CD pipeline
 * [Configure a GitHub Action to create a container instance](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-github-action?tabs=userlevel)
+ * https://github.com/uol-library/az-eprints/blob/main/assets/images/plan.drawio.png
 
 Container registry
 * [Deploy a Docker image to an Azure Container Instance](https://learn.microsoft.com/en-gb/training/modules/intro-to-containers/6-deploy-docker-image-to-container-instance)
