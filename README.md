@@ -1,8 +1,6 @@
 EPrints / Azure Project
 =======================
 
-https://github.com/uol-library/az-eprints/blob/main/assets/images/whiteboard-13.1.2023.png
-
 WHAT WE NEED
 ------------
 
@@ -87,4 +85,11 @@ TOOLCHAIN
   * Flavours (versioned)
   * Ingredients (versioned)
 
- 
+IMAGES
+------
+
+![Whiteboard](https://github.com/uol-library/az-eprints/blob/main/assets/images/whiteboard-13.1.2023.png)
+
+![EPrints Architecture](https://github.com/uol-library/az-eprints/blob/main/assets/images/plan.drawio.png)
+
+![AzureArchitectiure](https://github.com/uol-library/az-eprints/blob/main/assets/images/migrate-existing-applications-to-container-apps.drawio.png)
