@@ -90,6 +90,12 @@ IMAGES
 
 ![Whiteboard](https://github.com/uol-library/az-eprints/blob/main/assets/images/whiteboard-13.1.2023.png)
 
+Whiteboard from planning session
+
 ![EPrints Architecture](https://github.com/uol-library/az-eprints/blob/main/assets/images/plan.drawio.png)
 
+Plan for compiling Container Instances from multiple components
+
 ![AzureArchitectiure](https://github.com/uol-library/az-eprints/blob/main/assets/images/migrate-existing-applications-to-container-apps.drawio.png)
+
+Architecture plan for Azure
