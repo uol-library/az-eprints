@@ -98,4 +98,4 @@ Plan for compiling Container Instances from multiple components
 
 ![AzureArchitectiure](https://github.com/uol-library/az-eprints/blob/main/assets/images/migrate-existing-applications-to-container-apps.drawio.png)
 
-Architecture plan for Azure
+Architecture plan for Azure (based on https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/migrate-existing-applications-to-container-apps)
